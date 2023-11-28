@@ -15,3 +15,6 @@ node index.js
 ```
 ### License
 [MIT](https://choosealicense.com/licenses/mit/)
+
+
+https://medium.com/@hksalaudeen/simple-implementation-of-jwt-authorisation-scheme-with-swagger-docs-a99b1839e05b
